@@ -1,0 +1,2 @@
+# sixcoin
+Sixcoin Source
